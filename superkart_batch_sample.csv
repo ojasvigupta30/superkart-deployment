@@ -1,0 +1,21 @@
+Product_Id,Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_Type,Product_MRP,Store_Id,Store_Establishment_Year,Store_Size,Store_Location_City_Type,Store_Type
+FD6870,12.76,Low Sugar,0.035,Snack Foods,158.59,OUT004,2009,Medium,Tier 2,Supermarket Type2
+DR1429,17.54,Low Sugar,0.012,Soft Drinks,217.37,OUT003,1999,Medium,Tier 1,Departmental Store
+DR3999,12.02,Regular,0.013,Soft Drinks,201.24,OUT003,1999,Medium,Tier 1,Departmental Store
+FD3388,10.96,Regular,0.073,Frozen Foods,165.12,OUT004,2009,Medium,Tier 2,Supermarket Type2
+FD2137,13.32,Low Sugar,0.076,Fruits and Vegetables,175.0,OUT001,1987,High,Tier 2,Supermarket Type1
+FD3639,12.58,reg,0.093,Starchy Foods,159.98,OUT004,2009,Medium,Tier 2,Supermarket Type2
+FD1669,14.99,Low Sugar,0.042,Fruits and Vegetables,160.1,OUT003,1999,Medium,Tier 1,Departmental Store
+FD938,7.39,Low Sugar,0.013,Fruits and Vegetables,119.24,OUT002,1998,Small,Tier 3,Food Mart
+FD3775,12.82,Low Sugar,0.076,Fruits and Vegetables,150.09,OUT004,2009,Medium,Tier 2,Supermarket Type2
+NC6433,13.44,No Sugar,0.076,Household,137.65,OUT004,2009,Medium,Tier 2,Supermarket Type2
+FD2207,8.88,Low Sugar,0.115,Dairy,124.27,OUT002,1998,Small,Tier 3,Food Mart
+FD4768,11.56,Low Sugar,0.055,Meat,153.11,OUT004,2009,Medium,Tier 2,Supermarket Type2
+NC3563,13.23,No Sugar,0.047,Household,170.95,OUT001,1987,High,Tier 2,Supermarket Type1
+FD6460,9.84,Low Sugar,0.043,Frozen Foods,138.63,OUT004,2009,Medium,Tier 2,Supermarket Type2
+FD2470,10.78,Regular,0.152,Frozen Foods,135.65,OUT004,2009,Medium,Tier 2,Supermarket Type2
+FD6858,7.54,Low Sugar,0.079,Fruits and Vegetables,153.76,OUT001,1987,High,Tier 2,Supermarket Type1
+FD2387,10.32,Regular,0.025,Snack Foods,122.2,OUT001,1987,High,Tier 2,Supermarket Type1
+FD1826,13.45,Regular,0.045,Frozen Foods,153.59,OUT004,2009,Medium,Tier 2,Supermarket Type2
+FD725,17.42,Low Sugar,0.092,Frozen Foods,156.15,OUT003,1999,Medium,Tier 1,Departmental Store
+FD6170,11.08,Low Sugar,0.047,Baking Goods,195.09,OUT001,1987,High,Tier 2,Supermarket Type1
