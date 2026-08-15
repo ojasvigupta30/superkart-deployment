@@ -38,7 +38,7 @@ Frontend (port 8501) - replace the URL with your own forwarded backend address:
 cd frontend_files
 docker build -t superkart-frontend .
 docker run -d -p 8501:8501 \
-  -e API_URL="https://SuperKart-7860.app.github.dev" \
+  -e API_URL="https://friendly-space-waffle-4vpxpj4j677hqwvv-7860.app.github.dev" \
   --name superkart-ui superkart-frontend
 ```
 
@@ -47,7 +47,7 @@ Set both ports to **Public** in the Codespaces **PORTS** tab.
 ## Example request
 
 ```bash
-curl -X POST https://SuperKart-7860.app.github.dev/v1/predict \
+curl -X POST https://friendly-space-waffle-4vpxpj4j677hqwvv-7860.app.github.dev/v1/predict \
   -H "Content-Type: application/json" \
   -d '{"Product_Weight":12.66,"Product_Sugar_Content":"Low Sugar","Product_Allocated_Area":0.027,"Product_MRP":117.08,"Store_Size":"Medium","Store_Location_City_Type":"Tier 2","Store_Type":"Supermarket Type2","Product_Id_char":"FD","Store_Age_Years":16,"Product_Type_Category":"Non Perishables"}'
 ```
