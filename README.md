@@ -1,5 +1,7 @@
 # SuperKart Sales Forecasting - Model Deployment
 
+URL - `https://friendly-space-waffle-4vpxpj4j677hqwvv-8501.app.github.dev/`
+
 Forecasts `Product_Store_Sales_Total` for a product in a store, using a tuned Random Forest
 pipeline (one-hot encoding + regressor) served as a REST API with a Streamlit front end.
 
